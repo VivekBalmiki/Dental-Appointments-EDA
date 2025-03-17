@@ -1,0 +1,51 @@
+Patient Name,Age,Gender,Appointment Date,Appointment Time,Dentist,Treatment Type,Cost ($),Status
+Derrick Lopez,27,Female,2024-12-10,14:36,Dr. Patel,Teeth Whitening,315.84,No Show
+Jeffrey Holland,51,Other,2024-10-14,07:35,Dr. Smith,Tooth Extraction,446.55,No Show
+Mrs. Rachel Casey DDS,37,Other,2024-10-06,11:56,Dr. Brown,Root Canal,337.42,Scheduled
+Jamie Andrews,67,Male,2025-01-12,14:49,Dr. Lee,Gum Treatment,310.15,Completed
+Andrew Gonzalez,67,Male,2024-08-19,03:45,Dr. Smith,Cavity Filling,185.79,No Show
+Charles Wilson,66,Male,2024-02-18,02:12,Dr. Smith,Teeth Cleaning,118.29,Scheduled
+Julie Stanton,31,Other,2024-03-19,20:44,Dr. Lee,Teeth Cleaning,246.26,Cancelled
+Morgan Pitts,32,Other,2024-07-29,15:33,Dr. Smith,Braces Consultation,165.54,Completed
+Melinda Vega,58,Female,2024-05-09,20:54,Dr. Patel,Braces Consultation,251.11,No Show
+William Nelson,33,Other,2024-03-17,08:30,Dr. Patel,Root Canal,93.73,Scheduled
+Arthur Cooley,45,Other,2024-12-23,12:42,Dr. Patel,Tooth Extraction,92.53,Cancelled
+Kenneth Hammond,55,Male,2024-06-18,05:06,Dr. Lee,Gum Treatment,440.84,Cancelled
+Shelby Bowman,40,Other,2025-01-29,10:55,Dr. Brown,Root Canal,142.26,No Show
+Shelby Hernandez,34,Other,2024-03-20,15:29,Dr. Patel,Tooth Extraction,101.03,No Show
+Troy Daniels,44,Female,2025-01-24,00:25,Dr. Smith,Tooth Extraction,165.17,No Show
+Patrick Patton,21,Other,2025-02-10,14:01,Dr. Brown,Cavity Filling,210.95,No Show
+Brittany Chaney,24,Other,2024-08-10,18:26,Dr. Johnson,Cavity Filling,457.72,No Show
+Norma Ryan,32,Female,2024-10-13,12:04,Dr. Johnson,Teeth Cleaning,332.22,Cancelled
+Eric King,57,Other,2024-05-31,07:08,Dr. Lee,Teeth Whitening,136.88,Completed
+Edwin Davis,49,Male,2024-09-23,17:33,Dr. Lee,Gum Treatment,265.09,No Show
+Anthony Barnett,31,Other,2024-07-15,21:58,Dr. Johnson,Teeth Cleaning,208.17,No Show
+Monica Evans,27,Female,2024-11-08,06:55,Dr. Brown,Root Canal,61.41,Scheduled
+Matthew Black,35,Male,2024-03-31,02:57,Dr. Smith,Teeth Whitening,208.38,Scheduled
+Nicholas Palmer,29,Female,2024-03-03,06:03,Dr. Brown,Root Canal,143.47,Cancelled
+Shawn Jimenez,20,Female,2024-08-16,18:33,Dr. Smith,Gum Treatment,57.98,Scheduled
+David Moon,30,Female,2024-07-27,06:39,Dr. Smith,Teeth Whitening,257.75,Cancelled
+John Wallace,53,Other,2024-05-31,21:58,Dr. Smith,Root Canal,215.34,No Show
+Shelby Welch,57,Male,2024-03-05,10:42,Dr. Johnson,Root Canal,425.06,No Show
+Robert Barnes,28,Other,2024-11-02,21:26,Dr. Patel,Teeth Whitening,85.18,Cancelled
+Danielle Garrett,47,Female,2024-07-14,05:37,Dr. Johnson,Teeth Whitening,221.51,Scheduled
+Michael Morrison,65,Male,2024-04-09,08:09,Dr. Patel,Teeth Whitening,468.33,Completed
+David Weaver,44,Female,2025-02-12,00:13,Dr. Lee,Root Canal,207.75,Completed
+Cynthia Schaefer,37,Male,2024-03-27,20:38,Dr. Lee,Teeth Cleaning,301.32,Cancelled
+Laura Chen,23,Male,2024-11-11,11:15,Dr. Patel,Teeth Cleaning,234.36,Cancelled
+Mark Pace,48,Female,2024-08-27,23:51,Dr. Smith,Gum Treatment,250.33,Scheduled
+Donald Harvey,58,Other,2024-05-12,18:17,Dr. Lee,Teeth Whitening,263.99,Scheduled
+Jason Holt,34,Other,2024-09-25,06:58,Dr. Smith,Teeth Whitening,345.94,Completed
+Brian Lee,43,Female,2024-10-29,21:35,Dr. Patel,Cavity Filling,339.44,Cancelled
+Richard Medina,60,Female,2024-03-24,09:05,Dr. Lee,Braces Consultation,424.49,Scheduled
+Justin Figueroa,46,Other,2024-11-08,09:32,Dr. Smith,Teeth Cleaning,458.53,No Show
+Mary Case,73,Male,2024-09-13,14:41,Dr. Brown,Teeth Whitening,210.93,No Show
+Victoria Glenn,49,Male,2024-02-18,04:20,Dr. Patel,Gum Treatment,316.33,Scheduled
+Jasmine Palmer,56,Male,2024-05-10,03:25,Dr. Patel,Braces Consultation,256.59,Cancelled
+Andrea Diaz,25,Female,2024-12-22,22:03,Dr. Lee,Gum Treatment,478.36,Cancelled
+Nathan Woods,46,Other,2024-04-28,12:19,Dr. Smith,Tooth Extraction,263.9,Completed
+Nathan Anderson,22,Other,2025-01-03,23:03,Dr. Patel,Teeth Whitening,236.4,Cancelled
+Jeremiah Calhoun,62,Other,2024-08-07,15:10,Dr. Patel,Teeth Whitening,318.28,Scheduled
+Eric Berry,40,Male,2024-09-29,07:16,Dr. Brown,Root Canal,458.2,Scheduled
+Jennifer Gonzalez,64,Other,2024-12-10,00:35,Dr. Smith,Tooth Extraction,458.49,No Show
+Gina Hinton,65,Other,2024-07-23,19:53,Dr. Smith,Teeth Cleaning,238.75,Scheduled
